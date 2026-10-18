@@ -1,0 +1,3 @@
+"""
+Linear hash table implementation
+"""
